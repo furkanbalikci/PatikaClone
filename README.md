@@ -1,4 +1,4 @@
-# PatIkaClone
+# PatikaClone
 
 This project is a simple desktop clone of www.patika.com.
 
